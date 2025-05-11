@@ -1,0 +1,14 @@
+# Node
+backend/node_modules/
+frontend/node_modules/
+
+# Python
+AI-livekit/__pycache__/
+*.pyc
+.env
+
+# General
+*.log
+.DS_Store
+.vscode/
+git add .
